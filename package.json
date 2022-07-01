@@ -4,7 +4,7 @@
   "description": "Web starter parcel",
   "default": "src/index.html",
   "scripts": {
-    "start" : "node app.js",
+    "start" : "parcel index.html",
     "serve": "parcel index.html",
     "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,6 +24,6 @@
     "parcel": "^2.0.0-beta.2",
     "snackbar": "^1.1.0"
   },
-  "main": "index.js",
+
   "devDependencies": {}
 }
