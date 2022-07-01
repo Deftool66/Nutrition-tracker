@@ -4,6 +4,7 @@
   "description": "Web starter parcel",
   "default": "src/index.html",
   "scripts": {
+    "start" : "node app.js",
     "serve": "parcel index.html",
     "build": "parcel build index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
