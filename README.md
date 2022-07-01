@@ -1,10 +1,5 @@
-# Final project
 
-This is the final project for [learnjavascript.online](https://learnjavascript.online) .
 
-Feel free to remix the project. You can use it for your job interview, to start your own project. You can add features, remove features. **The only restriction is hosting the original project with the instructions that were provided on Learn JavaScript. In other words, you are not allowed to make educational material out of this project.**
-
-**Important: If you'd like to host this project online, please make sure to replace the Base URL of the Firebase API with your own. For that, you need to create a free Firebase account, a new app, and then click on Firestore database.**
 
 ## Setup
 
